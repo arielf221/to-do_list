@@ -24,7 +24,7 @@ Uma aplicação web simples para gerenciar listas de tarefas, desenvolvida com H
 
 Você pode acessar o projeto online através do GitHub Pages:
 
-👉 (https://arielf221.github.io/projeto_site_linktree/)
+👉 (https://arielf221.github.io/to-do_list/)
 
 ---
 

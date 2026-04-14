@@ -6,7 +6,7 @@ Uma aplicação web simples para gerenciar listas de tarefas, desenvolvida com H
 
 ## 📸 Preview
 
-![Preview do Projeto](/assets/preview.png)
+![Preview do Projeto](/)
 
 ---
 

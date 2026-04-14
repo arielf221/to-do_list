@@ -68,10 +68,13 @@ li {
     padding: 10px;
     border-radius: 4px;
     display: flex;
+    flex-wrap: nowrap;
     justify-content: space-between;
     align-items: center;
     transition: background ease 0.2s;
     margin: 12px;
+    word-break: break-word;
+    overflow-wrap: anywhere;
 }
 
 li button {
